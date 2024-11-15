@@ -14,10 +14,6 @@ def generate_pw(number = random_number):
 
     return pw
 
-print (random_number)
-human.append(generate_pw)
-print (human)
-
-
-
-
+print(random_number)
+s = human.append(generate_pw)
+print(s)
