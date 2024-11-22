@@ -1,4 +1,4 @@
-import random
+""" import random
 human = []
 
 random_number = random.randint(3, 12)
@@ -17,3 +17,4 @@ def generate_pw(number = random_number):
 print(random_number)
 s = human.append(generate_pw)
 print(s)
+ """
